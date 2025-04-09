@@ -26,6 +26,27 @@ Não há funcionalidades de carrinho, login ou backend — é apenas o **fronten
 
 ---
 
+## 🎯 Objetivo
+
+- Estruturação de páginas com HTML
+- Estilização com CSS (incluindo layout responsivo)
+- Aplicação básica de JavaScript para navegação e interatividade simples
+
+---
+
+## 📄 Licença
+
+Código aberto sob licença MIT.  
+Você pode utilizar este modelo como base para outros projetos.
+
+---
+
+## 👨‍💻 Desenvolvido por
+
+[Lucas Voltareli](https://github.com/lucasvoltareli)
+
+---
+
 ## 📂 Como visualizar
 
 1. Clone o repositório:
