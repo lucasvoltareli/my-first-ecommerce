@@ -29,5 +29,4 @@ Não há funcionalidades de carrinho, login ou backend — é apenas o **fronten
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/my-first-ecommerce.git
-
 ![first-ecommerce](https://github.com/user-attachments/assets/05aeff8d-164f-4cac-b526-31aa6e3b647f)
